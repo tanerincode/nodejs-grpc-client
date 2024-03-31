@@ -2,6 +2,8 @@
 
 This project demonstrates how to create a simple Node.js server that acts as a client to a gRPC service.
 
+The server repository is here : [go-grpc-with-http](https://github.com/tanerincode/go-grpc-with-http)
+
 ## Getting Started
 
 ### Prerequisites
