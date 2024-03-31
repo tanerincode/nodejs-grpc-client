@@ -1,4 +1,4 @@
-# Node.js gRPC Client Project
+# Node.js gRPC Client
 
 This project demonstrates how to create a simple Node.js server that acts as a client to a gRPC service.
 
